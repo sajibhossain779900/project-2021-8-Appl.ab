@@ -1,0 +1,380 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+
+
+
+
+  /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+   .onest{
+ 
+  height:710px;
+}
+
+   .v-lr {
+  
+    margin: 70px 0 0 0;
+}
+.onest h1{
+    font-size: 50px;
+    
+    line-height: 60px;
+}
+ /*------------------------
+-------------------------
+     4th section
+-----------------------
+------------------------*/
+.fourth{
+  text-align: center;
+}
+.fourth h1{
+  width: 100%;
+  font-size: 30px;
+    font-weight: 600;
+  
+}
+.fourth p{
+  margin: 10px 0;
+  width: 100%;
+}
+.fourth .b-r{
+    margin: 5px 0;
+}
+/*------------------------
+-------------------------
+     9th section
+-----------------------
+------------------------*/
+
+.Nineth .box121 {
+    margin: 0px -100px;
+  }
+
+  .Nineth .box1211 {
+    margin: 0px 18px;
+  }
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+   
+/*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+    .onest{
+ 
+  height:910px;
+}
+  .v-lr {
+  
+    margin: 140px 0 0 0;
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+
+
+
+  /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+   .onest{
+ 
+  height: 1759px;
+}
+  
+   .v-lr {
+  
+    margin: 70px 0 0 0;
+}
+
+  /*------------------------
+-------------------------
+     4st section
+-----------------------
+------------------------*/
+
+
+.fourth .b-r{
+  margin: 10px 120px;
+  width: 150px;
+  height: 1px;
+  background:black;
+}
+/*------------------------
+-------------------------
+     9th section
+-----------------------
+------------------------*/
+
+.Nineth .box121 {
+    margin: 33px auto;
+  }
+
+  .Nineth .box1211 {
+    margin: 37px auto;
+  }
+
+    /*------------------------
+-------------------------
+     10th section
+-----------------------
+------------------------*/
+
+.tenth{
+  margin: 30px 0;
+}
+
+.tenth .ten-l {}
+
+.tenth .ten-r{
+  text-align: center;
+  width: 100%;
+}
+.tenth .ten-r img , .tenth .ten-r .img3 , .tenth .ten-r .ten-img-aro img{
+      width: 31%;
+    margin: 0 auto;
+}
+.accordion-body {
+        height: 305px !important;
+    
+    
+    
+}
+
+/*------------------------
+-------------------------
+     12th section
+-----------------------
+------------------------*/
+
+.Twelve .twel-l {
+    text-align: center;
+    margin: 0 0 64px 0;
+    
+}
+.Twelve .twel-l  img{
+  width: 70%;
+}
+
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+
+  /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+   .onest{
+ 
+  height: 1251px;
+}
+   .v-lr {
+  
+    margin: 50px 0 0 0;
+}
+
+.onest h1{
+    font-size: 40px;
+    
+    line-height: 60px;
+}
+
+/*------------------------
+-------------------------
+     2nd section
+-----------------------
+------------------------*/
+
+.twond{
+  
+  margin: 70px 0;
+}
+  /*------------------------
+-------------------------
+     3th section
+-----------------------
+------------------------*/
+.threeth ,.Fiveth{
+  text-align: center;
+}
+.threeth h1 ,.Fiveth h1{
+  width: 100%;
+    font-size: 30px;
+    font-weight: 600;
+    
+    line-height: 44px;
+}
+
+.threeth p ,.Fiveth p{
+  width: 100%;
+   
+}
+  /*------------------------
+-------------------------
+     4th section
+-----------------------
+------------------------*/
+.fourth , .fourth1{
+  text-align: center;
+}
+.fourth h1{
+  width: 100%;
+
+}
+.fourth p , .fourth1 p{
+  width: 100%;
+}
+.fourth .b-r{
+  margin: 10px 120px;
+  width: 150px;
+  height: 1px;
+  background:black;
+}
+
+ /*------------------------
+-------------------------
+     4th section
+-----------------------
+------------------------*/
+.Fiveth button{
+  margin: 10px auto;
+}
+
+
+/*------------------------
+-------------------------
+     7th section
+-----------------------
+------------------------*/
+
+.Seventh {
+  text-align: center;
+}
+
+.Seventh button{
+  margin: 10px auto;
+}
+/*------------------------
+-------------------------
+     9th section
+-----------------------
+------------------------*/
+
+.Nineth .box121 {
+    margin: 33px auto;
+  }
+
+  .Nineth .box1211 {
+    margin: 37px auto;
+  }
+
+
+  /*------------------------
+-------------------------
+     10th section
+-----------------------
+------------------------*/
+
+.tenth{
+  margin: 30px 0;
+}
+
+.tenth .ten-l {}
+
+.tenth .ten-r{
+  text-align: center;
+  width: 100%;
+}
+.tenth .ten-r img , .tenth .ten-r .img3 , .tenth .ten-r .ten-img-aro img{
+      width: 31%;
+    margin: 0 auto;
+}
+
+.accordion-body {
+        height: 355px !important;
+    
+    
+    
+}
+/*------------------------
+-------------------------
+     12th section
+-----------------------
+------------------------*/
+
+.Twelve .twel-l {
+    text-align: center;
+    margin: 0 0 64px 0;
+    
+}
+/*------------------------
+-------------------------
+     footer section
+-----------------------
+------------------------*/
+
+.Twelve .twel-r {
+    margin: 0 0 -53px 0;
+}
+
+}
